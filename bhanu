@@ -6,7 +6,5 @@ mkdir bharath
 ls
 cp f3 bharath
 cd bharath
-ll
-cd ..
-ll
+ls
 
