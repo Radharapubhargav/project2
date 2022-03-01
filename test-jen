@@ -1,0 +1,6 @@
+mkdir dev
+ls
+touch f1 f2 f3 f4
+ls
+mv dev devaiah
+ls
